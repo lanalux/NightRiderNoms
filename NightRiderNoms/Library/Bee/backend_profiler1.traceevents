@@ -1,0 +1,500 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1682901726558852, "dur":660, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726559515, "dur":45, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1682901726559571, "dur":13, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1682901726559584, "dur":299, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1682901726559901, "dur":434, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726560335, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692048, "dur":290, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692338, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692343, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692345, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692349, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692350, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692353, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692354, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692358, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692359, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692362, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692363, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692367, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692368, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692372, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692373, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692376, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692377, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692380, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692381, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692384, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692385, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692388, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692389, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692393, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692393, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692397, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692398, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692402, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692403, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692407, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692408, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692411, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692421, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726692435, "dur":935, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1682901726560108, "dur":231, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726560340, "dur":1403, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726561752, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1682901726561810, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726561890, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726561905, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726567820, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726568798, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726568817, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726568821, "dur":1213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726570046, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726570062, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726570085, "dur":1110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726571205, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726571262, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726571267, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726572279, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726572294, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726572298, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726573363, "dur":66316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726639682, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1682901726639688, "dur":578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1682901726640274, "dur":51788, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726560152, "dur":198, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726560350, "dur":1396, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726561752, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1682901726561795, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726561824, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms.exe" }}
+,{ "pid":12345, "tid":2, "ts":1682901726561848, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726566887, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms.exe" }}
+,{ "pid":12345, "tid":2, "ts":1682901726567662, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726567677, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726567681, "dur":951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726568642, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726568655, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726568660, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726569507, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726569520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726569525, "dur":741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726570276, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726570289, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726570293, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726571328, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726571340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726571345, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726572374, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726572391, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726572394, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726573424, "dur":59111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726632538, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1682901726632545, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1682901726633429, "dur":58630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726560178, "dur":178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726560357, "dur":1403, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726561760, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1682901726561808, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726561823, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726561847, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726561889, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726561909, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726573673, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726574772, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726574787, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726574791, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726576701, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726576718, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726576723, "dur":1394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726578127, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726578144, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726578148, "dur":2856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1682901726581014, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1682901726581048, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726581063, "dur":763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1682901726581837, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1682901726581853, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726582052, "dur":1545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1682901726583608, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1682901726583621, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726583626, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1682901726584541, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.caw" }}
+,{ "pid":12345, "tid":3, "ts":1682901726584555, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726584560, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.caw" }}
+,{ "pid":12345, "tid":3, "ts":1682901726585511, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1682901726585528, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726585532, "dur":1931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1682901726587479, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1682901726587492, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726587498, "dur":508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1682901726588015, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1682901726588027, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726588030, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1682901726588702, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1682901726588713, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726588717, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1682901726589583, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1682901726589666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1682901726589670, "dur":500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1682901726590179, "dur":101865, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726560126, "dur":217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726560343, "dur":1405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726561753, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1682901726561799, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726561811, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1682901726561825, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726561836, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682901726561894, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726573482, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682901726575159, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682901726575174, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726575178, "dur":3125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682901726578315, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682901726578332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726578337, "dur":2663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1682901726581082, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.vis" }}
+,{ "pid":12345, "tid":4, "ts":1682901726581106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726581489, "dur":1345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.vis" }}
+,{ "pid":12345, "tid":4, "ts":1682901726582845, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1682901726582859, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1682901726582873, "dur":6961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1682901726589845, "dur":102200, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726560145, "dur":201, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726560347, "dur":1397, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726561753, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1682901726561806, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726561821, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1682901726561836, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726561853, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682901726561904, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726574455, "dur":2460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682901726576926, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682901726576939, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726576944, "dur":2816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682901726579778, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682901726579795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726579800, "dur":7143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1682901726586959, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1682901726587195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726587200, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1682901726589544, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1682901726589786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1682901726589791, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1682901726591846, "dur":100205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726560173, "dur":180, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726560353, "dur":1404, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726561757, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1682901726561802, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726561825, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726561847, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726567088, "dur":660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726567758, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726567771, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726567775, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726568781, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726568795, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726568799, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726569777, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726569786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726569789, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726570783, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726570797, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726570801, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726571864, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726571886, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726571891, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726573276, "dur":35704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726608985, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1682901726608995, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1682901726609775, "dur":82280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726560191, "dur":168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726560359, "dur":1398, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726561757, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1682901726561795, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726561813, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1682901726561833, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726561889, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726561918, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726573092, "dur":1028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726574133, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726574147, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726574151, "dur":2760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726576921, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726576935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726576940, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726578566, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726578587, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726578592, "dur":2318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726580922, "dur":45063, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726625991, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1682901726626000, "dur":610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Assembly-CSharp-firstpass.dll" }}
+,{ "pid":12345, "tid":7, "ts":1682901726626622, "dur":65431, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726560209, "dur":153, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726560362, "dur":1396, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726561758, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1682901726561794, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726561825, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726561854, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726567491, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726568352, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726568363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726568366, "dur":758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726569134, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726569148, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726569152, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726570048, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726570062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726570087, "dur":1267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726571363, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726571376, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726571380, "dur":1262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726572653, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726572663, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726572667, "dur":1127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726573806, "dur":53014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726626823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1682901726626829, "dur":538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1682901726627378, "dur":64680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726560231, "dur":134, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726560365, "dur":1389, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726561754, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1682901726561806, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726561824, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726561890, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726567251, "dur":721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726567983, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726568000, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726568004, "dur":808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726568822, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726568836, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726568840, "dur":949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726569799, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726569811, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726569815, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726570839, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726570852, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726570856, "dur":977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726571854, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726571886, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726571889, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726572921, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726572935, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726572940, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726574209, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726574221, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726574225, "dur":1272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726575506, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726575519, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726575523, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726577021, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726577034, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726577038, "dur":3638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726580687, "dur":36970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726617661, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1682901726617667, "dur":483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1682901726618158, "dur":73895, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726560264, "dur":104, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726560368, "dur":1384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726561757, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1682901726561814, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726561849, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726561891, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726567654, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726568648, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726568663, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726568667, "dur":908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726569589, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726569603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726569608, "dur":835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726570455, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726570466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726570470, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726571371, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726571384, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726571388, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726572964, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726572975, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726572979, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726573947, "dur":112421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726686372, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1682901726686398, "dur":597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1682901726687003, "dur":5044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726560283, "dur":88, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726560371, "dur":1379, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726561752, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1682901726561796, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726561824, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1682901726561841, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726562582, "dur":2788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1682901726565386, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682901726565402, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726565405, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682901726565975, "dur":88158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682901726654138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1682901726654144, "dur":626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1682901726654782, "dur":37272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726560301, "dur":73, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726560374, "dur":1373, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726561751, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1682901726561809, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726561823, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1682901726561892, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726561904, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682901726561921, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726574993, "dur":2122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682901726577129, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682901726577144, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726577149, "dur":2776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682901726579937, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682901726579955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726579980, "dur":7112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1682901726587104, "dur":2753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1682901726589860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1682901726589864, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1682901726591686, "dur":100366, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726560321, "dur":56, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726560377, "dur":1368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726561752, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1682901726561846, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726561885, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726561902, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726562516, "dur":1249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726563774, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726563785, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726563801, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726564301, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726564318, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726564321, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726565117, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726565131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726565136, "dur":639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726565782, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726565796, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726565799, "dur":417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726566227, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726566243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726566247, "dur":419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726566673, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726566685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726566688, "dur":657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726567356, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726567373, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726567377, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726568346, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726568359, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726568363, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726569146, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726569160, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726569164, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726570042, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726570057, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726570061, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726571278, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726571294, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726571299, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726572381, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726572396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726572399, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726573559, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726573587, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726573591, "dur":2070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726575672, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726575689, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726575694, "dur":3117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726578824, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726578840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726578844, "dur":2241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1682901726581096, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1682901726581116, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1682901726582112, "dur":7655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/GI/level0/c8/c89925a34a71c9102069b601fcd59372.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1682901726589781, "dur":102265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726560337, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726560337, "dur":1405, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726561752, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1682901726561763, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726562069, "dur":175, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1682901726562247, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1682901726562262, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726562432, "dur":1366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1682901726563799, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726563818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726563823, "dur":490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726564328, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726564346, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726564353, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726565102, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726565111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726565127, "dur":690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726565828, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726565843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726565848, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726566784, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726566799, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726566803, "dur":799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726567616, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726567635, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726567639, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726568652, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726568666, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726568671, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726569639, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726569661, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726569666, "dur":933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726570609, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726570623, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726570627, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726571423, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726571437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726571441, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726572619, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726572632, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726572636, "dur":1224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726573870, "dur":117598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726691471, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1682901726691477, "dur":537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1682901726692022, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":14, "ts":1682901726692022, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726560353, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726560354, "dur":1392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726561753, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1682901726561805, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726561822, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726561840, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726561880, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726561902, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726574775, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726577106, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726577118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726577123, "dur":2972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726580107, "dur":91996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726672108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1682901726672115, "dur":620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1682901726672745, "dur":19303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726560371, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726560371, "dur":1378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726561753, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1682901726561808, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726561822, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726561838, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726561883, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726561900, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726573277, "dur":767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726574055, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726574069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726574074, "dur":1307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726575392, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726575407, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726575411, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726577041, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726577054, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726577058, "dur":2945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726580022, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726580038, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726580042, "dur":4552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":16, "ts":1682901726584606, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1682901726584620, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1682901726584624, "dur":8860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"X:/LuxGames/Experiments/Ld53/Build/Night Rider Noms_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1682901726593496, "dur":98553, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1682901726694179, "dur":1208, "ph":"X", "name": "ProfilerWriteOutput" }
+,
